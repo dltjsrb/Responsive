@@ -67,9 +67,7 @@ img {
     .column {
         flex-direction: column;
     }
-    .c-box {
-        width: 47%;
-    }
+ 
     .content-1{
     width: 45%;
     }
